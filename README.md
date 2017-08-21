@@ -1,3 +1,8 @@
+About Moodle 2.8
+=============
+
+[![Build status](https://travis-ci.org/emAmazed/moodle28.svg?branch=master)](https://travis-ci.org/emAmazed/moodle28) [![Quality Gate](https://sonarqube.com/api/badges/gate?key=moodle28)](https://sonarqube.com/dashboard/index/moodle28)
+
 QUICK INSTALL
 =============
 
