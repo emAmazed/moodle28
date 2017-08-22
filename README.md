@@ -1,7 +1,6 @@
 About Moodle 2.8
 =============
 
-[![Build status](https://travis-ci.org/emAmazed/moodle28.svg?branch=master)](https://travis-ci.org/emAmazed/moodle28) 
 
 QUICK INSTALL
 =============
