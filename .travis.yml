@@ -6,14 +6,18 @@ sudo: false
 
 # We currently disable Travis notifications entirely until https://github.com/travis-ci/travis-ci/issues/4976
 # is fixed.
-notifications:
-  email: false
+#notifications:
+  #email: false
 
 language: php
 
 php:
+    - 7.0
     - 5.6
     # - 5.5
+
+script:
+    - bin/atoum --test-all
 
 env:
     # Although we want to run these jobs and see failures as quickly as possible, we also want to get the slowest job to
