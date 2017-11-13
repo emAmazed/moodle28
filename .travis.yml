@@ -216,9 +216,9 @@ sudo: required
 
 addons:
   sonarcloud:
-    organization: "your_organization_key"
+    organization: "emamazed-github"
     token:
-      secure: "your_token_encrypted_with_travis_encrypt_tool"
+      secure: "9762d7904d60fe7c758ab78d0c324a6937f687a2"
 jdk:
   - oraclejdk8
 script:
